@@ -1,6 +1,6 @@
 #include "../include/main.h"
 #include <string.h>
-#include "../../cache/microhttpd/include/microhttpd.h"
+#include "../lib/microhttpd/include/microhttpd.h"
 
 #define PORT 8080
 
