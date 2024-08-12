@@ -1,6 +1,6 @@
-#include "../../cache/Unity/src/unity.h"
+#include "../lib/Unity/src/unity.h"
 #include "../include/main.h"
-#include "../../cache/microhttpd/include/microhttpd.h"
+#include "../lib/microhttpd/include/microhttpd.h"
 
 void setUp(void) {
 }

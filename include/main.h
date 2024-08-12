@@ -1,7 +1,7 @@
 #ifndef MAIN_H
 #define MAIN_H
 
-#include "../../cache/microhttpd/include/microhttpd.h"
+#include "../lib/microhttpd/include/microhttpd.h"
 
 
 
